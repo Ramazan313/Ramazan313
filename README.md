@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramazan Öztürk</h1>
-- 🔭 I’m currently working on [LLM-inventory-AI-LabNavigator](https://github.com/Ramazan313/LLM-inventory-AI-LabNavigator)
+- 🔭 I’m currently working on [LLM-inventory-AI-LabNavigator](https://github.com/Ramazan313/LLM-inventory-AI-LabNavigator-V3)
 
 - 📫 How to reach me **ozturkramazan905@gmail.com**
 
